@@ -17,7 +17,7 @@ def numero (lista):
         if(k == len(lista)):
             return array
             break
-numeros = [5,3,2,5,6,7,9]
+numeros = [5,3,2,1,6,7,9]
 
 ciclo = len(numeros)
 for i in range(ciclo):

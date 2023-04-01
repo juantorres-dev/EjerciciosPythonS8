@@ -1,7 +1,7 @@
 from random import randint
 
 def temperatura():
-    listaTemperatura = []
+    listaTemperatura =  []
     for a in range(8):
         for i in range(20):
 

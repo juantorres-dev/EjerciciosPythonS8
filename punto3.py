@@ -12,8 +12,8 @@ def login (user,password):
 
 
 while True:
-    user = input("Ingrese el usuario: ")
-    password = input("Ingrese la contaseña: ")
+    user = input("Ingrese el usuario:  ")
+    password = input("Ingrese la contaseña:  ")
 
     resultado = login(user,password)
     print(f"numeros de intentos: {intentos}")
