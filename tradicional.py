@@ -3,7 +3,7 @@
 def saludar (nombre):
     return(f'Hola {nombre}')
 
-#llamar a a funcion 
+#llamar a la funcion 
 
 resultado=saludar("Thomas")
 print(resultado)
