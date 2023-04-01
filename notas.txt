@@ -1,0 +1,9 @@
+Funciones 
+    cada uno tiene unos componentes(ingredientes)
+        - Parametros (Ojala cada funcion tenga un retorno)
+    Las funciones se tienes que poner en verbo infinitivo 
+        debe cumplir un principio de responsabilidad unica 
+
+
+Clases 
+     las clases tienes metodos, es como tener un grupo de funciones y a eso se le llama metodos 
